@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Faunanfun</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Menu Principal</string>
+
+    <string name="new_game">Nuevo Juego</string>
+    <string name="how_play">Como Jugar</string>
+    <string name="exit">Salir</string>
+    <string name="start">Comenzar</string>
+    <string name="message_start">Antes de empezar, no olvides que debes mirar el animal y
+        seleccionar el animal que crees que sea, tu puedes!</string>
+
+    <string name="title_activity_new_game">Nuevo Juego</string>
+</resources>

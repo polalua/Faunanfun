@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/estiloboton1</item>
+        <item name="buttonStyle">@style/estiloboton1</item>
+    </style>
+
+    <style name="ComenzarJuegoTema" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/estiloboton2</item>
+        <item name="buttonStyle">@style/estiloboton2</item>
+    </style>
+
+    <style name="estiloboton2" parent="android:Widget.Button">
+        <item name="android:background">@drawable/button_new_game</item>
+        <item name="android:textColor">@color/colorletra</item>
+        <item name="background">@drawable/button_new_game</item>
+    </style>
+
+    <style name="estiloboton1" parent="android:Widget.Button">
+        <item name="android:background">@drawable/button_main</item>
+        <item name="android:textColor">@color/colorletra</item>
+        <item name="background">@drawable/button_main</item>
+    </style>
+
+    <color name="colorletra">#FFFFFF</color>
+</resources>
